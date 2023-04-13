@@ -10,11 +10,13 @@ include_directories(
         ${PROJECT_SOURCE_DIR}/include/
 )
 
-add_library(${PROJECT_NAME} SHARED
+add_library(${PROJECT_NAME}
         src/runTime.cpp
+        src/sort.cpp
         )
 
-add_executable(testSort example/main.cpp)
+add_executable(testSort example/sortTime.cpp)
+add_executable(testSum example/sumTime.cpp)
 
 target_link_libraries(testSort
         ${PROJECT_NAME}

@@ -1,4 +1,5 @@
 C:/Programs/CPP/CalcuSortTime/cmake-build-debug/CMakeFiles/CalcuSortTime.dir
 C:/Programs/CPP/CalcuSortTime/cmake-build-debug/CMakeFiles/testSort.dir
+C:/Programs/CPP/CalcuSortTime/cmake-build-debug/CMakeFiles/testSum.dir
 C:/Programs/CPP/CalcuSortTime/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Programs/CPP/CalcuSortTime/cmake-build-debug/CMakeFiles/rebuild_cache.dir

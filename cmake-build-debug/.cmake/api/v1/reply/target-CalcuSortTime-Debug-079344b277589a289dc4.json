@@ -1,14 +1,9 @@
 {
+	"archive" : {},
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/Programs/CPP/CalcuSortTime/lib/libCalcuSortTime.dll"
-		},
-		{
-			"path" : "C:/Programs/CPP/CalcuSortTime/lib/libCalcuSortTime.dll.a"
-		},
-		{
-			"path" : "C:/Programs/CPP/CalcuSortTime/lib/libCalcuSortTime.pdb"
+			"path" : "C:/Programs/CPP/CalcuSortTime/lib/libCalcuSortTime.a"
 		}
 	],
 	"backtrace" : 1,
@@ -54,12 +49,6 @@
 					"fragment" : "-std=gnu++23"
 				}
 			],
-			"defines" : 
-			[
-				{
-					"define" : "CalcuSortTime_EXPORTS"
-				}
-			],
 			"includes" : 
 			[
 				{
@@ -78,28 +67,14 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1
 			]
 		}
 	],
 	"id" : "CalcuSortTime::@6890427a1f51a3e7e1df",
-	"link" : 
-	{
-		"commandFragments" : 
-		[
-			{
-				"fragment" : "",
-				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
-			}
-		],
-		"language" : "CXX"
-	},
 	"name" : "CalcuSortTime",
-	"nameOnDisk" : "libCalcuSortTime.dll",
+	"nameOnDisk" : "libCalcuSortTime.a",
 	"paths" : 
 	{
 		"build" : ".",
@@ -111,7 +86,8 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1
 			]
 		}
 	],
@@ -122,7 +98,13 @@
 			"compileGroupIndex" : 0,
 			"path" : "src/runTime.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/sort.cpp",
+			"sourceGroupIndex" : 0
 		}
 	],
-	"type" : "SHARED_LIBRARY"
+	"type" : "STATIC_LIBRARY"
 }

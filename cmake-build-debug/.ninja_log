@@ -1,2 +1,24 @@
 # ninja log v5
-1	8	0	clean	34d42a0091acb2d7
+593	713	7030946138283373	C:/Programs/CPP/CalcuSortTime/lib/libCalcuSortTime.dll	6bda340f5f909050
+0	7	0	clean	34d42a0091acb2d7
+3	473	7030987970958368	CMakeFiles/CalcuSortTime.dir/src/sort.cpp.obj	568ec671386ac2cf
+4	780	7030988349822779	CMakeFiles/testSort.dir/example/main.cpp.obj	9248d8fa9fd48f1b
+4	617	7030976951716749	CMakeFiles/CalcuSortTime.dir/src/runTime.cpp.obj	2e8eae06bec47127
+593	713	7030946138283373	C:/Programs/CPP/CalcuSortTime/lib/libCalcuSortTime.dll.a	6bda340f5f909050
+781	886	7030988350860420	testSort.exe	5c45c913d0397ea6
+474	557	7030987971785524	C:/Programs/CPP/CalcuSortTime/lib/libCalcuSortTime.a	f82676e1f6767360
+0	707	7030998672131446	CMakeFiles/testSum.dir/example/sumTime.cpp.obj	eb0ce432b7fc6a1c
+708	813	7030998673138688	testSum.exe	8f0bca19bccbe340
+4	795	7031046555621322	CMakeFiles/testSum.dir/example/sumTime.cpp.obj	eb0ce432b7fc6a1c
+796	908	7031046556715474	testSum.exe	8f0bca19bccbe340
+3	569	7031046624917883	CMakeFiles/CalcuSortTime.dir/src/runTime.cpp.obj	2e8eae06bec47127
+569	661	7031046625844901	C:/Programs/CPP/CalcuSortTime/lib/libCalcuSortTime.a	f82676e1f6767360
+7	891	7031046628120016	CMakeFiles/testSort.dir/example/sortTime.cpp.obj	951cbf0dc3c01b19
+891	1022	7031046629394406	testSort.exe	1020ae0c1d72793e
+3	876	7031049575864359	CMakeFiles/testSort.dir/example/sortTime.cpp.obj	951cbf0dc3c01b19
+876	1006	7031049577051841	testSort.exe	1020ae0c1d72793e
+5	808	7031049709461527	CMakeFiles/testSort.dir/example/sortTime.cpp.obj	951cbf0dc3c01b19
+809	919	7031049710563805	testSort.exe	1020ae0c1d72793e
+4	805	7031049809362857	CMakeFiles/testSort.dir/example/sortTime.cpp.obj	951cbf0dc3c01b19
+805	917	7031049810465149	testSort.exe	1020ae0c1d72793e
+0	10	0	clean	34d42a0091acb2d7
